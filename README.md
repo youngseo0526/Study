@@ -16,25 +16,34 @@
 [AVSBench](https://www.notion.so/AVSBench-7264979004d14e128b3b921d331d3997)
 
 [2022.09.27] </br>
-[PIPNET](https://www.notion.so/PIPNET-e1f90b51867a46b3bbde73f5cda8cd0f)
+[EZ-VSL](https://www.notion.so/EZ-VSL-ea86cec84e954984bc76f94b1136a538)
 
 [2022.10.05] </br>
+[PIPNET](https://www.notion.so/PIPNET-e1f90b51867a46b3bbde73f5cda8cd0f)
 
 [2022.10.11] </br>
+[Music datasets](https://www.notion.so/Music-datasets-f7263c2779284c86a7f63891b15a0b34)
 
 [2022.10.14] </br>
+[Easy way Inference](https://www.notion.so/Easy-way-Inference-a48aac01c40f429a809f184fc1e3269f)
 
 [2022.10.17] </br>
+[Localizing Visual Sounds the Easy Way](https://www.notion.so/Localizing-Visual-Sounds-the-Easy-Way-503b725c46dd4de49d4f60f2a9f3a072)
 
 [2022.10.20] </br>
+[A Simple Framework for Contrastive Learning of Visual Representations](https://www.notion.so/A-Simple-Framework-for-Contrastive-Learning-of-Visual-Representations-5d223a6d07304b1ca6c708f8d940e9cd)
 
 [2022.10.31] </br>
+[Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://www.notion.so/Fourier-Features-Let-Networks-Learn-High-Frequency-Functions-in-Low-Dimensional-Domains-2f1ba5cd909e4f2e9b58e330185477d7)
 
 [2022.11.07] </br>
+[2022 cvpr eccv accepted paper list](https://www.notion.so/2022-cvpr-eccv-accepted-paper-list_origin-9409ad85db524dc4a0df1e4ea6e49ba8)
 
 [2022.11.28] </br>
+[Implicit Representation Using Neural Network](https://www.notion.so/Implicit-Representation-Using-Neural-Network-e47e2bad46294bc693b852b1c9094179)
 
 [2022.11.30] </br>
+[Vision-Language Pre-training: Basic, Recent Advances, and Future Trends]
 
 [2022.12.06] </br>
 
