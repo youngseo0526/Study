@@ -37,13 +37,17 @@
 [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://www.notion.so/Fourier-Features-Let-Networks-Learn-High-Frequency-Functions-in-Low-Dimensional-Domains-2f1ba5cd909e4f2e9b58e330185477d7)
 
 [2022.11.07] </br>
-[2022 cvpr eccv accepted paper list](https://www.notion.so/2022-cvpr-eccv-accepted-paper-list_origin-9409ad85db524dc4a0df1e4ea6e49ba8)
+[2022 cvpr eccv diffusion accepted paper list](https://www.notion.so/2022-cvpr-eccv-accepted-paper-list_origin-9409ad85db524dc4a0df1e4ea6e49ba8)
 
 [2022.11.28] </br>
 [Implicit Representation Using Neural Network](https://www.notion.so/Implicit-Representation-Using-Neural-Network-e47e2bad46294bc693b852b1c9094179)
 
+[2022.11.29] </br>
+[Vision-Language Pre-training: Basic, Recent Advances, and Future Trends](https://www.notion.so/Vision-Language-Pre-training-Basic-Recent-Advances-and-Future-Trends-9f5a3e0beeca4e38bc74a6335019417b)
+
 [2022.11.30] </br>
-[Vision-Language Pre-training: Basic, Recent Advances, and Future Trends]
+[GANtoDffusion](https://www.notion.so/GANtoDffusion-1c70d53f1f464cf58cada87115ff3e9a)
 
 [2022.12.06] </br>
+[Awesome CLIP](https://www.notion.so/Awesome-CLIP-cb77e24025f64abb9331125cae92abb9)
 
