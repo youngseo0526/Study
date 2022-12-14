@@ -51,3 +51,8 @@
 [2022.12.06] </br>
 [Awesome CLIP](https://www.notion.so/Awesome-CLIP-cb77e24025f64abb9331125cae92abb9)
 
+[2022.12.12] </br>
+[Paint by Example: Exemplar-based Image Editing with Diffusion Models](https://www.notion.so/Paint-by-Example-Exemplar-based-Image-Editing-with-Diffusion-Models-31fb714924e34a74a8a6ca2a3c2d2406)
+
+[2022.12.13] </br>
+[FrozenCLIPImageEmbedder](https://www.notion.so/FrozenCLIPImageEmbedder-f8c9b9312c524877bda3b1d3ee306d59)
