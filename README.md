@@ -56,3 +56,6 @@
 
 [2022.12.13] </br>
 [FrozenCLIPImageEmbedder](https://www.notion.so/FrozenCLIPImageEmbedder-f8c9b9312c524877bda3b1d3ee306d59)
+
+[2022.12.15] </br>
+[Video Editing](https://www.notion.so/Video-Editing-d2d0f8948bd44856bb9e1209eff5325e)
