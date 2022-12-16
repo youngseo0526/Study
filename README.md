@@ -59,3 +59,9 @@
 
 [2022.12.15] </br>
 [Video Editing](https://www.notion.so/Video-Editing-d2d0f8948bd44856bb9e1209eff5325e)
+</br>
+[Depth-aware Image Stylization](https://www.notion.so/Depth-aware-Image-Stylization-b59353b88ff94e979332ef61e630963c)
+
+[2022.12.16]</br>
+[Domain Adaptation of image stylizaition, manipulation](https://www.notion.so/Domain-Adaptation-of-image-stylizaition-manipulation-0fade71887074c3c82e211c5704a09f9)
+
