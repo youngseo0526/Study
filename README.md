@@ -65,3 +65,5 @@
 [2022.12.16]</br>
 [Domain Adaptation of image stylizaition, manipulation](https://www.notion.so/Domain-Adaptation-of-image-stylizaition-manipulation-0fade71887074c3c82e211c5704a09f9)
 
+[2022.12.19]</br>
+[Story Visualization](https://www.notion.so/Story-Visualization-07a78626d9944129bb5f849c5b7319df)
