@@ -67,3 +67,6 @@
 
 [2022.12.19]</br>
 [Story Visualization](https://www.notion.so/Story-Visualization-07a78626d9944129bb5f849c5b7319df)
+
+[2022.12.21]</br>
+[Text2LIVE Result](https://www.notion.so/Text2LIVE-Result-0d01496bd2da486dbad8c10de53f93fa)
