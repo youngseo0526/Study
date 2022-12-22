@@ -70,3 +70,6 @@
 
 [2022.12.21]</br>
 [Text2LIVE Result](https://www.notion.so/Text2LIVE-Result-0d01496bd2da486dbad8c10de53f93fa)
+</br>
+[Stablediffusion Inpainting Video](https://breezy-perfume-dec.notion.site/Stablediffusion-Inpainting-Video-64d3e02a4fcb48d1a544b2cb1804d620)
+
