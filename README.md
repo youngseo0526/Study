@@ -73,3 +73,5 @@
 </br>
 [Stablediffusion Inpainting Video](https://breezy-perfume-dec.notion.site/Stablediffusion-Inpainting-Video-64d3e02a4fcb48d1a544b2cb1804d620)
 
+[2023.01.04]</br>
+[Stable Diffusion Code Review](https://www.notion.so/Stable-diffusion-code-review-6693f43076d64198b222870b72398f9d)
