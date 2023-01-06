@@ -77,4 +77,5 @@
 [Stable Diffusion Code Review](https://www.notion.so/Stable-diffusion-code-review-6693f43076d64198b222870b72398f9d)
 
 [2023.01.05]</br>
-[DDPM vs. DDIM](https://breezy-perfume-dec.notion.site/DDPM-vs-DDIM-a8635f39274246ac9d48af1d662ff438)
+[DDPM vs. DDIM](https://breezy-perfume-dec.notion.site/DDPM-vs-DDIM-a8635f39274246ac9d48af1d662ff438)</br>
+[Text2Live_firewood](https://breezy-perfume-dec.notion.site/Text2Live_firewood-e619051ed8c24fd29839db9f3b7110b9)
