@@ -79,3 +79,6 @@
 [2023.01.05]</br>
 [DDPM vs. DDIM](https://breezy-perfume-dec.notion.site/DDPM-vs-DDIM-a8635f39274246ac9d48af1d662ff438)</br>
 [Text2Live_firewood](https://breezy-perfume-dec.notion.site/Text2Live_firewood-e619051ed8c24fd29839db9f3b7110b9)
+
+[2023.01.10]</br>
+[Houdini Effect](https://breezy-perfume-dec.notion.site/Houdini-Effect-0bce7d196967420aa2d49a3f16cd5ed0)
