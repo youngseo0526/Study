@@ -86,3 +86,6 @@
 [2023.01.11]</br>
 [WeeklyMeeting_Conditional Diffusion for Text-Guided Video Editing](https://www.notion.so/W-M_Conditional-Diffusion-for-Text-Guided-Video-Editing-e18dc4b6eea44efb8622d9950734bef5)</br>
 [Houdini Python Scripting](https://breezy-perfume-dec.notion.site/Houdini-Python-Scripting-f340c27cf76c46c28f8247753d35df01)
+
+[2023.01.16]</br>
+[Text2Live Inference](https://breezy-perfume-dec.notion.site/Text2Live-Inference-0ab6ef4dda774ace87b73603fa56db85)
