@@ -89,3 +89,6 @@
 
 [2023.01.16]</br>
 [Text2Live Inference](https://breezy-perfume-dec.notion.site/Text2Live-Inference-0ab6ef4dda774ace87b73603fa56db85)
+
+[2023.01.19]</br>
+[WeeklyMeeting_Text-Guided Video Visual Effect Adding Temporal VQ-VAE of Diffusion Latent Space](https://www.notion.so/W-M_Text-Guided-Video-Visual-Effect-Adding-Temporal-VQ-VAE-of-Diffusion-Latent-Space-bd9fed94a3d44ea6a6843d57a07805f3)
