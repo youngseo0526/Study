@@ -94,4 +94,4 @@
 [WeeklyMeeting_Text-Guided Video Visual Effect Adding Temporal VQ-VAE of Diffusion Latent Space](https://www.notion.so/W-M_Text-Guided-Video-Visual-Effect-Adding-Temporal-VQ-VAE-of-Diffusion-Latent-Space-bd9fed94a3d44ea6a6843d57a07805f3)
 
 [2023.02.02]</br>
-[W.M_Temporal Consistency in Video Editing](https://www.notion.so/W-M_Temporal-Consistency-in-Video-Editing-1f8afd2bf9e546c1b26e8ac3b43ee6a9)
+[WeeklyMeeting_Temporal Consistency in Video Editing](https://www.notion.so/W-M_Temporal-Consistency-in-Video-Editing-1f8afd2bf9e546c1b26e8ac3b43ee6a9)
