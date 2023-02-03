@@ -95,3 +95,6 @@
 
 [2023.02.02]</br>
 [WeeklyMeeting_Temporal Consistency in Video Editing](https://www.notion.so/W-M_Temporal-Consistency-in-Video-Editing-1f8afd2bf9e546c1b26e8ac3b43ee6a9)
+
+[2023.02.03]</br>
+[FVD, dataset](https://www.notion.so/FVD-dataset-1c72f6671ff545ee9f29b0e55ba0b6ac)
