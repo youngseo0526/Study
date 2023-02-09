@@ -98,3 +98,6 @@
 
 [2023.02.03]</br>
 [FVD, dataset](https://www.notion.so/FVD-dataset-1c72f6671ff545ee9f29b0e55ba0b6ac)
+
+[2023.02.09]</br>
+[Video Editing Baseline](https://breezy-perfume-dec.notion.site/Video-Editing-Baseline-834336ce6b19440485d97f44271b91a2)
