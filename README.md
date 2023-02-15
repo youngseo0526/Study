@@ -97,7 +97,10 @@
 [WeeklyMeeting_Temporal Consistency in Video Editing](https://www.notion.so/W-M_Temporal-Consistency-in-Video-Editing-1f8afd2bf9e546c1b26e8ac3b43ee6a9)
 
 [2023.02.03]</br>
-[FVD, dataset](https://www.notion.so/FVD-dataset-1c72f6671ff545ee9f29b0e55ba0b6ac)
+[Evaluation Metrics](https://www.notion.so/FVD-dataset-1c72f6671ff545ee9f29b0e55ba0b6ac)
 
 [2023.02.09]</br>
 [Video Editing Baseline](https://breezy-perfume-dec.notion.site/Video-Editing-Baseline-834336ce6b19440485d97f44271b91a2)
+
+[2023.02.15]</br>
+[Optical Flow(RAFT)](https://breezy-perfume-dec.notion.site/Optical-Flow-RAFT-60fcfd6b7a284f5682c38a3a50597af6)
