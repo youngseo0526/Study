@@ -102,5 +102,11 @@
 [2023.02.09]</br>
 [Video Editing Baseline](https://breezy-perfume-dec.notion.site/Video-Editing-Baseline-834336ce6b19440485d97f44271b91a2)
 
-[2023.02.15]</br>
+[2023.02.12]</br>
 [Optical Flow(RAFT)](https://breezy-perfume-dec.notion.site/Optical-Flow-RAFT-60fcfd6b7a284f5682c38a3a50597af6)
+
+[2023.02.15]</br>
+[Progressive Mask Shrinking](https://breezy-perfume-dec.notion.site/Progressive-Mask-Shrinking-884a6ddce5694362a1d3db2f5f88173d)
+
+[2023.02.16]</br>
+[WeeklyMeeting_Sound2Video](https://breezy-perfume-dec.notion.site/W-M_Sound2Video-60c067fc477c4341bdf693a7a8b224ad)
