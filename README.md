@@ -110,3 +110,12 @@
 
 [2023.02.16]</br>
 [WeeklyMeeting_Sound2Video](https://breezy-perfume-dec.notion.site/W-M_Sound2Video-60c067fc477c4341bdf693a7a8b224ad)
+
+[2023.02.17]</br>
+[feedback](https://www.notion.so/feedback-d7c1b35cdd3645bdb5b4fa80ec06a267?pvs=4)
+
+[2023.02.21]</br>
+[Pexels dataset](https://www.notion.so/Pexels-dataset-99dbbc9043dc4507ab7528e9b7f08c74?pvs=4)</br>
+[writing class](https://www.notion.so/writing-class-2b64e8f13a2f40289b917522bd183493?pvs=4)</br>
+[related work citation](https://www.notion.so/Related-work-cite-e0757c65b6634492a9336eec6f2309b9?pvs=4)
+
