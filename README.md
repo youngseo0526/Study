@@ -119,3 +119,5 @@
 [writing class](https://www.notion.so/writing-class-2b64e8f13a2f40289b917522bd183493?pvs=4)</br>
 [related work citation](https://www.notion.so/Related-work-cite-e0757c65b6634492a9336eec6f2309b9?pvs=4)
 
+[2023.04.10]</br>
+[CLAP](https://breezy-perfume-dec.notion.site/CLAP-e48d478b55454a9ea01a4d9e851ea089)
