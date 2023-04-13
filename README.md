@@ -121,3 +121,6 @@
 
 [2023.04.10]</br>
 [CLAP](https://breezy-perfume-dec.notion.site/CLAP-e48d478b55454a9ea01a4d9e851ea089)
+
+[2023.04.12]</br>
+[Video Dissuion model investigation](https://breezy-perfume-dec.notion.site/Video-Diffusion-66f49f002a1745b299809df1fd792c8e)
